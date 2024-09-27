@@ -49,7 +49,7 @@ Before you begin, make sure you have the following installed:
 ## Installation
 You can download the [**repository**](https://github.com/BlackJkee/NotPixelBot) by cloning it to your system and installing the necessary dependencies:
 ```shell
-git clone https://github.com/BlackJkee/NotPixelBot.git
+git clone https://github.com/ikbalnodex/notpixel.git
 cd NotPixelBot
 ```
 
